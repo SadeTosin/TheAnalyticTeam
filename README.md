@@ -3,18 +3,14 @@ Welcome here! Explore advanced analytics for optimizing your business's top cust
 
 <hr>
 
-![My Image](file/M&B.png)
+![My Image](files/pic3.png)
 
 <hr>
 
-![My Image](file/M&B1.png)
+![My Image](files/pic4.png)
 
 <hr>
 
-![My Image](file/M&B3.png)
+<br>
 
-<hr>
-
-![My Image](file/M&B4.png)
-
-<hr>
+<br>
